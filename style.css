@@ -4,6 +4,9 @@
     font-family: 'Dancing Script', cursive;
 font-family: 'Lobster', cursive;
 }
+.picture-dark{
+    filter: brightness(60%);
+}
 
 h2{
     font-weight: 2000;
